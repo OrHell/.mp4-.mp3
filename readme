@@ -1,0 +1,5 @@
+Steps for work
+
+1) pip3 install moviepy (Linux) pip install moviepy
+2) only for python 3 worked 
+3) run script conv.py
