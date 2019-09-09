@@ -26,5 +26,5 @@ for iterat in range(0, count):
 
     threading.Thread(target = music_convert, args = [music[iterat]]).start()
     #music_convert(music[iterat])
-
+#print(timeit('music_convert(music[iterat])',globals = globals(),number =1))
 
